@@ -19,3 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TC-new in github'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('TC-Parameterization extended'), [('bookingDate') : '10/03/2023', ('komen') : 'komen A'], 
+    FailureHandling.STOP_ON_FAILURE)
+
