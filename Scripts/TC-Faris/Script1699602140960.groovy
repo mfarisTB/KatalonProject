@@ -20,3 +20,5 @@ import org.openqa.selenium.Keys as Keys
 println "Faris"
 
 println "Fildza"
+
+println "Cool"
