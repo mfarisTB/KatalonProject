@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe0a77f8-2c94-40d8-ba4a-65c3c39ea3e6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9add3c93-40c3-4c1f-8448-84fbb48e70dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.msn.com/'</defaultValue>
+      <description></description>
+      <id>9add3c93-40c3-4c1f-8448-84fbb48e70dd</id>
+      <masked>false</masked>
+      <name>urlString</name>
+   </variable>
+</TestCaseEntity>

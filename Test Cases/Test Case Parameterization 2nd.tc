@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case Parameterization 2nd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e339cf9-61b7-45e2-9724-b973233e9527</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ceb531b3-cd17-4d1c-8abf-565bc6cc9097</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a88f7be-f35e-4b7d-9369-6380c086f172</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32b08255-771b-49ef-8f4d-7d3fbb17a00f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d9745673-0a97-4601-8d57-2b8ffe93f3f7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05ea8b48-29e1-490c-9064-73c3b6dd3c2d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>ceb531b3-cd17-4d1c-8abf-565bc6cc9097</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>5a88f7be-f35e-4b7d-9369-6380c086f172</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>32b08255-771b-49ef-8f4d-7d3fbb17a00f</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>d9745673-0a97-4601-8d57-2b8ffe93f3f7</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+   <variable>
+      <defaultValue>'komen 1'</defaultValue>
+      <description></description>
+      <id>05ea8b48-29e1-490c-9064-73c3b6dd3c2d</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

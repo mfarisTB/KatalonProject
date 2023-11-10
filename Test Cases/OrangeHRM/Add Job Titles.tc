@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Job Titles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cdfe3ce-1a72-474c-9cd4-66fe03503e5b</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e73b1051-4e01-4ce0-b24c-fcc125c6dd1a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestData1</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e73b1051-4e01-4ce0-b24c-fcc125c6dd1a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>jobTitle</value>
+      <variableId>96c10530-2cb3-4169-965c-225ea053a8fd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e73b1051-4e01-4ce0-b24c-fcc125c6dd1a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>jobDescription</value>
+      <variableId>6b6f50f4-469e-4830-ab95-8ef5e39e1459</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e73b1051-4e01-4ce0-b24c-fcc125c6dd1a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>note</value>
+      <variableId>bda5999d-391b-4a81-9879-fcaf4e244ecb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'JB1'</defaultValue>
+      <description></description>
+      <id>96c10530-2cb3-4169-965c-225ea053a8fd</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'sebarang description'</defaultValue>
+      <description></description>
+      <id>6b6f50f4-469e-4830-ab95-8ef5e39e1459</id>
+      <masked>false</masked>
+      <name>jobDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>'sebarang note'</defaultValue>
+      <description></description>
+      <id>bda5999d-391b-4a81-9879-fcaf4e244ecb</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+</TestCaseEntity>

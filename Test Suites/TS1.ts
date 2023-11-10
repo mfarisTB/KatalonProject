@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6a74950c-421e-4dc7-9cb6-508f370bb9b9</testSuiteGuid>
+   <testCaseLink>
+      <guid>435ca4b4-a69e-403a-8db9-c6dfc4535196</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/OrangeHRM/Add Job Titles</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e7919671-5342-4494-a86e-51517dfe8306</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData2</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e7919671-5342-4494-a86e-51517dfe8306</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jobTitle</value>
+         <variableId>96c10530-2cb3-4169-965c-225ea053a8fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e7919671-5342-4494-a86e-51517dfe8306</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jobDescription</value>
+         <variableId>6b6f50f4-469e-4830-ab95-8ef5e39e1459</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e7919671-5342-4494-a86e-51517dfe8306</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>note</value>
+         <variableId>bda5999d-391b-4a81-9879-fcaf4e244ecb</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

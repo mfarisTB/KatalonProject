@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Custom Keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2e3740d-ca4a-4ca1-9819-c890b1806b2f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c0c1a87-cc6e-44ff-9fcb-168c770ee481</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin1,admin12'</defaultValue>
+      <description></description>
+      <id>1c0c1a87-cc6e-44ff-9fcb-168c770ee481</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View cart</name>
+   <tag></tag>
+   <elementGuidId>e36a4807-3444-4884-9d50-d70cf7c34f5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.wc-forward</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e3ded9df-4ece-4d08-b672-be2b9d5cd246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/cart/</value>
+      <webElementGuid>3204595c-fba3-4e3c-86e5-a1db58004cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>aaa301ad-d757-4428-9a2b-35f0a0b70bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button wc-forward</value>
+      <webElementGuid>58b250b0-43eb-4c85-82d8-8e0189b6b44c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View cart</value>
+      <webElementGuid>2b08448c-0740-4be0-83a2-5e6083497e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;woocommerce-notices-wrapper&quot;]/div[@class=&quot;woocommerce-message&quot;]/a[@class=&quot;button wc-forward&quot;]</value>
+      <webElementGuid>3c0f8985-32ee-45fd-b5e7-37b1241aa467</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/a</value>
+      <webElementGuid>d0a4719c-2547-46ac-b75e-487785594753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View cart')]</value>
+      <webElementGuid>acf1745c-05f9-4fa4-b3ab-2bdddaec8934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posters'])[1]/following::a[1]</value>
+      <webElementGuid>ea3c5bca-11ba-4722-b45d-3e751734bf1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/preceding::a[1]</value>
+      <webElementGuid>63075445-bf00-46f6-9cc1-6a5dc67fca4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flying Ninja'])[1]/preceding::a[4]</value>
+      <webElementGuid>266d047a-0f91-4217-8e82-4a0909ea6ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View cart']/parent::*</value>
+      <webElementGuid>fc87a62e-2e6a-491e-820d-b006b2387867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://cms.demo.katalon.com/cart/')])[2]</value>
+      <webElementGuid>8b0fd3f9-3943-40c0-ac28-7baebca29966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/a</value>
+      <webElementGuid>d5eb6cb7-2265-421b-bf3e-070e7a2fdbb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cms.demo.katalon.com/cart/' and (text() = 'View cart' or . = 'View cart')]</value>
+      <webElementGuid>59fa0552-345f-4f9c-bb2e-6c6aa0734e85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

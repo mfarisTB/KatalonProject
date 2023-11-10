@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case Parameterization</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2809db4f-d043-4769-8c94-17506266ef57</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70379cd6-9a36-4a00-8ea8-0f86fe366fdc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.google.com/'</defaultValue>
+      <description>specify url address</description>
+      <id>70379cd6-9a36-4a00-8ea8-0f86fe366fdc</id>
+      <masked>false</masked>
+      <name>urlAddress</name>
+   </variable>
+</TestCaseEntity>

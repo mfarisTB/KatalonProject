@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Job Titles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31012eeb-20a7-4be9-80f4-9b1411e03c2f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb2c2061-245d-455c-ac8f-818c246006d6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'j1,j2'</defaultValue>
+      <description></description>
+      <id>cb2c2061-245d-455c-ac8f-818c246006d6</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

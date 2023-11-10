@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CMS 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf907a1b-145a-4729-96fa-0269e1275ceb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6535655f-35a5-43a5-98fe-1a2f9e79c18d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Maldives'</defaultValue>
+      <description></description>
+      <id>6535655f-35a5-43a5-98fe-1a2f9e79c18d</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointData1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/TestData1</source-url>
+   </source-info>
+   <taken-date>2023-11-09T22:32:49.814</taken-date>
+   <column-names>
+      <column-name>jobTitle</column-name>
+      <column-name>jobDescription</column-name>
+      <column-name>note</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Pentadbir",
+      "checked": true
+    },
+    {
+      "value": "Pentadbir description",
+      "checked": true
+    },
+    {
+      "value": "note 1",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Penolong Pentadbir",
+      "checked": true
+    },
+    {
+      "value": "Penolong Pentadbir description",
+      "checked": true
+    },
+    {
+      "value": "note 2",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Setiausaha",
+      "checked": true
+    },
+    {
+      "value": "Setiausaha description",
+      "checked": true
+    },
+    {
+      "value": "note 3",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

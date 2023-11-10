@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Parameterization extended</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ad80172-1c37-4da6-a899-ed1df5b943c0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>10d9305b-753e-4dcb-abed-55f05930b122</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/CuraDay6</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>10d9305b-753e-4dcb-abed-55f05930b122</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>bookingDate</value>
+      <variableId>4f8299fd-fe95-4aeb-85b8-251ede9f9953</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>10d9305b-753e-4dcb-abed-55f05930b122</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>komen</value>
+      <variableId>222be6ff-e4c3-41c2-b6a4-05dbe3489347</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'10/03/2023'</defaultValue>
+      <description></description>
+      <id>4f8299fd-fe95-4aeb-85b8-251ede9f9953</id>
+      <masked>false</masked>
+      <name>bookingDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'komen A'</defaultValue>
+      <description></description>
+      <id>222be6ff-e4c3-41c2-b6a4-05dbe3489347</id>
+      <masked>false</masked>
+      <name>komen</name>
+   </variable>
+</TestCaseEntity>
