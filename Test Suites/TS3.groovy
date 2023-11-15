@@ -34,7 +34,7 @@ import com.kms.katalon.core.annotation.TearDownTestCase
 @SetUp(skipped = false) // Please change skipped to be false to activate this method.
 def setUp() {
 	// Put your code here.
-	println "tse setup"
+	println "MULA TS3"
 }
 
 /**
@@ -43,7 +43,7 @@ def setUp() {
 @TearDown(skipped = false) // Please change skipped to be false to activate this method.
 def tearDown() {
 	// Put your code here.
-	println "tse tear down"
+	println "HABIS TS3"
 }
 
 /**
@@ -52,7 +52,7 @@ def tearDown() {
 @SetupTestCase(skipped = false) // Please change skipped to be false to activate this method.
 def setupTestCase() {
 	// Put your code here.
-	println "setup tc"
+	println "MULA TEST CASE DI DALAM TS3"
 }
 
 /**
@@ -61,7 +61,7 @@ def setupTestCase() {
 @TearDownTestCase(skipped = false) // Please change skipped to be false to activate this method.
 def tearDownTestCase() {
 	// Put your code here.
-	println "tear down tc"
+	println "HABIS TEST CASE DI DALAM TS3"
 }
 
 /**

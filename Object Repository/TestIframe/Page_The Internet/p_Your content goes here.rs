@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Your content goes here</name>
+   <tag></tag>
+   <elementGuidId>cb761481-ad73-417e-97b2-732e02090267</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='tinymce']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a9fcd6c2-44ce-45e1-a8ba-b98acaab69d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your content goes here.</value>
+      <webElementGuid>fd587e57-07a1-4e98-8c61-ffac8781bd93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tinymce&quot;)/p[1]</value>
+      <webElementGuid>7c206e1a-d922-41f6-b3b7-ce0129988ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TestIframe/Page_The Internet/iframe_Paragraph_mce_0_ifr</value>
+      <webElementGuid>03726cf1-b640-4e25-ac8c-7f8fed8a933e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='tinymce']/p</value>
+      <webElementGuid>5d92fe5d-fc31-4183-b74e-84d41f84debb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'tinymce', '&quot;', ')/p[1]')])[1]/preceding::p[1]</value>
+      <webElementGuid>77d0e032-688d-4bee-a7db-40658a88c2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your content goes here.']/parent::*</value>
+      <webElementGuid>a67d117d-b866-44b8-ac23-21a3a07aba88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>38f0b823-a54b-48dd-9406-70adbf8d7ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Your content goes here.' or . = 'Your content goes here.')]</value>
+      <webElementGuid>194c2b3b-4f7d-4bec-b8cd-da3ce16bf0c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

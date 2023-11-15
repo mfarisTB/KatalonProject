@@ -23,5 +23,7 @@ WebUI.navigateToUrl('https://www.google.com/')
 
 WebUI.setText(findTestObject('Google 2/Page_Google/textarea__q'), 'test')
 
-WebUI.click(findTestObject('Google 2/Page_Google/input_Delete_below'))
+WebUI.click(findTestObject('Google 2/Page_Google/input_Delete_btnK'), FailureHandling.OPTIONAL)
+
+println('test')
 

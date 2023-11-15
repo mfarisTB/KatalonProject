@@ -17,13 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
-
-WebUI.setText(findTestObject('Object Repository/Orange/Page_OrangeHRM/input_Username_username'), 'Admin')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Orange/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
-
-WebUI.click(findTestObject('Object Repository/Orange/Page_OrangeHRM/button_Login'), FailureHandling.STOP_ON_FAILURE)
+CucumberKW.runFeatureFile('Include/features/AddJobTitlesParam.feature')
 

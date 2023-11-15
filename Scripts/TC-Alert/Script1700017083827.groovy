@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+WebUI.navigateToUrl('https://the-internet.herokuapp.com/')
 
-WebUI.setText(findTestObject('Object Repository/Orange/Page_OrangeHRM/input_Username_username'), 'Admin')
+WebUI.click(findTestObject('Object Repository/TestAlert/Page_The Internet/a_JavaScript Alerts'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Orange/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.click(findTestObject('TestAlert/Page_The Internet/button_Click for JS Alert'))
 
-WebUI.click(findTestObject('Object Repository/Orange/Page_OrangeHRM/button_Login'), FailureHandling.STOP_ON_FAILURE)
+WebUI.getAlertText(FailureHandling.STOP_ON_FAILURE)
 

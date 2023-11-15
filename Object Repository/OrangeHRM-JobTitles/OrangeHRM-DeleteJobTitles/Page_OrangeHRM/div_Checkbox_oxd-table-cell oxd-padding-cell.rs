@@ -6,6 +6,10 @@
    <elementGuidId>870d85cd-4b9d-48c5-93b5-13d9e77c8163</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='${jobTitle}'])[1]/preceding::div[3]</value>
       </entry>
@@ -13,20 +17,16 @@
          <key>CSS</key>
          <value>div.oxd-table-cell.oxd-padding-cell</value>
       </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body&quot;]/div[@class=&quot;oxd-table-card&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;oxd-table-cell oxd-padding-cell&quot;]</value>
-      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b43d2c34-fd86-44ee-858b-cf3eb99b8bae</webElementGuid>
+      <webElementGuid>90674b92-1b60-4cee-b189-70138c253073</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-table-cell oxd-padding-cell</value>
-      <webElementGuid>a779bdd2-86c9-41ad-a839-fd1fddaf4cf5</webElementGuid>
+      <webElementGuid>e643e1c6-fd8c-404e-84b2-cbb0f026be80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,15 +42,15 @@
       <name>role</name>
       <type>Main</type>
       <value>cell</value>
-      <webElementGuid>0141b823-dd84-4639-8ab3-c3002f7dc1e1</webElementGuid>
+      <webElementGuid>6729c606-6594-41b9-bc97-0ca0a7fa20ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body&quot;]/div[@class=&quot;oxd-table-card&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;oxd-table-cell oxd-padding-cell&quot;]</value>
-      <webElementGuid>39990e7c-40bb-41fb-ab44-041e1c3adf06</webElementGuid>
+      <webElementGuid>f4361fbf-dcc7-423d-952e-89d34a2df1b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[3]/div/div[2]/div/div/div</value>
-      <webElementGuid>1bbd3a8e-7ea7-4db3-9065-b397b99bfda8</webElementGuid>
+      <webElementGuid>0228d132-26b7-4d88-af7b-02a243335b40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Violin Player'])[1]/preceding::div[3]</value>
-      <webElementGuid>3f6b3801-1846-4de2-949d-f69b84fc4f0d</webElementGuid>
+      <webElementGuid>d9467e2b-a21f-4f91-bd23-1c676e13d91e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,6 +74,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div/div/div</value>
-      <webElementGuid>7a011cd0-8766-44b3-b7c3-9eb91ae62fc7</webElementGuid>
+      <webElementGuid>7077d003-ad03-4b2a-a64c-e02f33930ad4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

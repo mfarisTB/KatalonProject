@@ -31,37 +31,33 @@ import com.kms.katalon.core.annotation.TearDownTestCase
 /**
  * Setup test suite environment.
  */
-@SetUp(skipped = false) // Please change skipped to be false to activate this method.
+@SetUp(skipped = true) // Please change skipped to be false to activate this method.
 def setUp() {
 	// Put your code here.
-	println "tse setup"
 }
 
 /**
  * Clean test suites environment.
  */
-@TearDown(skipped = false) // Please change skipped to be false to activate this method.
+@TearDown(skipped = true) // Please change skipped to be false to activate this method.
 def tearDown() {
 	// Put your code here.
-	println "tse tear down"
 }
 
 /**
  * Run before each test case starts.
  */
-@SetupTestCase(skipped = false) // Please change skipped to be false to activate this method.
+@SetupTestCase(skipped = true) // Please change skipped to be false to activate this method.
 def setupTestCase() {
 	// Put your code here.
-	println "setup tc"
 }
 
 /**
  * Run after each test case ends.
  */
-@TearDownTestCase(skipped = false) // Please change skipped to be false to activate this method.
+@TearDownTestCase(skipped = true) // Please change skipped to be false to activate this method.
 def tearDownTestCase() {
 	// Put your code here.
-	println "tear down tc"
 }
 
 /**
